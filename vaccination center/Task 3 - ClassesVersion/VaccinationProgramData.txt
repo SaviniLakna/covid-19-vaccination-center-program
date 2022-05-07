@@ -1,0 +1,24 @@
+ 
+Booth 0 is occupied by savilak
+Booth 1 is occupied by dfdf
+Booth 2 is empty
+Booth 3 is occupied by eedrdf
+Booth 4 is occupied by sadf
+Booth 5 is empty
+Last Modified Sun Jul 25 12:39:43 IST 2021
+ 
+Booth 0 is occupied by vinuka558  Age: 2155  City: 245 Nic or Passport No: 114 Vaccine type: 0
+Booth 1 is occupied by savi253  Age: 85  City: 26 Nic or Passport No: 65 Vaccine type: 0
+Booth 2 is occupied by fds45625  Age: 2152  City: 2525 Nic or Passport No: 12525 Vaccine type: 1
+Booth 3 is empty
+Booth 4 is empty
+Booth 5 is empty
+Last Modified Sun Jul 25 15:57:03 IST 2021
+ 
+Booth 0 is occupied by jhgfytr , Age: 54 , City: 54 , Nic or Passport No: 543, Vaccine type: 0
+Booth 1 is empty
+Booth 2 is occupied by gfdgfd , Age: 432 , City: 432 , Nic or Passport No: 432, Vaccine type: 1
+Booth 3 is occupied by gfdgfd , Age: 43 , City: 43 , Nic or Passport No: 43, Vaccine type: 1
+Booth 4 is empty
+Booth 5 is empty
+Last Modified Sun Jul 25 21:48:58 IST 2021

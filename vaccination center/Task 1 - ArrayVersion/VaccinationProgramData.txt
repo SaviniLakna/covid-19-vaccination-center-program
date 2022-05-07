@@ -1,0 +1,40 @@
+ 
+[e] Booth number 0 
+[kavi] Booth number 1 
+[savi] Booth number 2 
+[e] Booth number 3 
+[vinu] Booth number 4 
+[hiru] Booth number 5 
+Last Modified Sat Jul 24 13:07:30 IST 2021
+ 
+[minu] Booth number 0 
+[e] Booth number 1 
+[hiru] Booth number 2 
+[dini] Booth number 3 
+[savi] Booth number 4 
+[e] Booth number 5 
+Last Modified Sat Jul 24 13:58:16 IST 2021
+ 
+[e] Booth number 0 
+[savi] Booth number 1 
+[vinu] Booth number 2 
+[e] Booth number 3 
+[kavi] Booth number 4 
+[hiru] Booth number 5 
+Last Modified Sat Jul 24 14:04:19 IST 2021
+ 
+[hgf] Booth number 0 
+[uyt] Booth number 1 
+[hv] Booth number 2 
+[e] Booth number 3 
+[e] Booth number 4 
+[e] Booth number 5 
+Last Modified Sat Jul 24 15:09:23 IST 2021
+ 
+[gfd] Booth number 0 
+[e] Booth number 1 
+[e] Booth number 2 
+[gfd] Booth number 3 
+[e] Booth number 4 
+[gfd] Booth number 5 
+Last Modified Mon Jul 26 17:07:21 IST 2021

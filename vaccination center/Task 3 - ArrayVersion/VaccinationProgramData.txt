@@ -1,0 +1,16 @@
+ 
+[s d] Booth number 0 
+[f d] Booth number 1 
+[s d] Booth number 2 
+[d g] Booth number 3 
+[gt g] Booth number 4 
+[h g] Booth number 5 
+Last Modified Sun Jul 25 00:59:03 IST 2021
+ 
+[gfd bv] Booth number 0 
+[uyt  vvc] Booth number 1 
+[e] Booth number 2 
+[e] Booth number 3 
+[e] Booth number 4 
+[e] Booth number 5 
+Last Modified Sun Jul 25 12:17:37 IST 2021

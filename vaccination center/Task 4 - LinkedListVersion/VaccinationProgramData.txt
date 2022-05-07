@@ -1,0 +1,16 @@
+  
+Booth 0 is occupied by gfdbvc  Age: 65  City: 765 Nic or Passport No: 54 Vaccine type: 0
+Booth 1 is occupied by mnbvjhg  Age: 876  City: 76 Nic or Passport No: 65 Vaccine type: 0
+Booth 2 is empty
+Booth 3 is empty
+Booth 4 is occupied by gfdtr  Age: 54  City: 43 Nic or Passport No: 54 Vaccine type: 2
+Booth 5 is empty
+Last Modified Sun Jul 25 23:21:35 IST 2021
+ 
+Booth 0 is occupied by hgf tre , Age: 54 , City: 54 , Nic or Passport No: 54, Vaccine type: 0
+Booth 1 is occupied by ytre nbv , Age: 5432 , City: 32 , Nic or Passport No: 32, Vaccine type: 0
+Booth 2 is empty
+Booth 3 is empty
+Booth 4 is occupied by nbv tr , Age: 543 , City: 543 , Nic or Passport No: 43, Vaccine type: 2
+Booth 5 is occupied by ytre gfd , Age: 543 , City: 543 , Nic or Passport No: 54, Vaccine type: 2
+Last Modified Mon Jul 26 00:56:22 IST 2021
